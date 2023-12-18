@@ -55,5 +55,5 @@ for output in bitstrings:
         probs[output] = 0
       
 with open(str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'_'+str(sys.argv[4])+'.pkl', 'wb') as fp:
-    pickle.dump(person, fp)
+    pickle.dump(probs, fp)
     print('dictionary saved successfully to file')
