@@ -34,9 +34,9 @@ def createQC(gate_string, params):
   return qc
 
 if int(sys.argv[2]) == 0:
-  qc = createQC(str(sys.argv[1]), [0, np.pi/8 + 2*np.pi*int(sys.argv[3])/8, np.pi/8 + 2*np.pi*int(sys.argv[4])/8])
+  qc = createQC(str(sys.argv[1]), [0, 4*np.pi*int(sys.argv[3])/8, 4*np.pi*int(sys.argv[4])/8])
 if int(sys.argv[3]) == 0:
-  qc = createQC(str(sys.argv[1]), [np.pi/8 + 2*np.pi*int(sys.argv[2])/8, 0, np.pi/8 + 2*np.pi*int(sys.argv[4])/8])
+  qc = createQC(str(sys.argv[1]), [4*np.pi*int(sys.argv[2])/8, 0, 4*np.pi*int(sys.argv[4])/8])
 
 # qc.draw('mpl', style='clifford')
 
