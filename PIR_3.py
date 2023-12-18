@@ -9,4 +9,8 @@ def totalExpectation():
   return val
 
 val = totalExpectation()
+print(val)
+print(str(sys.argv[1]))
+print(str(sys.argv[2]))
+print(str(sys.argv[3]))
 np.save(str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'.npy', np.array([val, int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3])]))
