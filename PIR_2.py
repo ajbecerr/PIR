@@ -18,4 +18,4 @@ with open(str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'_'+str(sys
     print(probs)
     val = expectationVal(str(sys.argv[5]), probs)
     print(val)
-    np.save(np.array([val, int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4])]), str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'_'+str(sys.argv[4])+'_'+str(sys.argv[5])+'.npy')
+    np.save(str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'_'+str(sys.argv[4])+'_'+str(sys.argv[5])+'.npy', np.array([val, int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4])]))
