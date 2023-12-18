@@ -1,4 +1,5 @@
 import numpy as np
+import pickle
 from qiskit import Aer, execute, QuantumCircuit
 from qiskit.circuit import Parameter
 from qiskit.compiler import transpile
@@ -53,4 +54,6 @@ for output in bitstrings:
     else:
         probs[output] = 0
       
-print(probs)
+with open(str(sys.argv[1])+'_'+str(sys.argv[2])+'_'+str(sys.argv[3])+'_'+str(sys.argv[4])+'.pkl', 'wb') as fp:
+    pickle.dump(person, fp)
+    print('dictionary saved successfully to file')
