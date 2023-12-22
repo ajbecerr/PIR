@@ -29,3 +29,11 @@ https://github.com/ajbecerr/PIR/blob/main/PIR_3_all.sh
 ## Visualization of Optimization Landscape
 
 https://github.com/ajbecerr/PIR/blob/main/Viz-Copy1.ipynb
+
+## Final Paper
+
+https://github.com/ajbecerr/PIR/blob/main/PIRpaper.pdf
+
+## Supporting Slides
+
+https://github.com/ajbecerr/PIR/blob/main/PIRslides.pdf
