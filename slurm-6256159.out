@@ -1,0 +1,15 @@
+0011 on processor s1cmp007.pax.tufts.edu, rank 1 out of 4 processors
+0110 on processor s1cmp007.pax.tufts.edu, rank 3 out of 4 processors
+0000 on processor s1cmp007.pax.tufts.edu, rank 0 out of 4 processors
+0101 on processor s1cmp007.pax.tufts.edu, rank 2 out of 4 processors
+-0.0010999999999999899 pass 0 expec for 0011_IIZZ with probs from processor s1cmp007.pax.tufts.edu, rank 1 out of 4 processors
+-0.0010999999999999899 pass 1 expec for 0011_IZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 1 out of 4 processors
+-0.0010999999999999899 pass 2 expec for 0011_ZZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 1 out of 4 processors
+1.0 pass 0 expec for 0000_IIIZ with probs from processor s1cmp007.pax.tufts.edu, rank 0 out of 4 processors
+0.002720000000000028 pass 0 expec for 0101_IZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 2 out of 4 processors
+1.0 pass 1 expec for 0000_IIZZ with probs from processor s1cmp007.pax.tufts.edu, rank 0 out of 4 processors
+0.002720000000000028 pass 1 expec for 0101_ZZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 2 out of 4 processors
+1.0 pass 2 expec for 0000_IZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 0 out of 4 processors
+1.0 pass 3 expec for 0000_ZZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 0 out of 4 processors
+0.00036000000000002697 pass 0 expec for 0110_IZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 3 out of 4 processors
+0.00036000000000002697 pass 1 expec for 0110_ZZZZ with probs from processor s1cmp007.pax.tufts.edu, rank 3 out of 4 processors

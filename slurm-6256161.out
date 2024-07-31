@@ -1,0 +1,63 @@
+010100 on processor p1cmp071.pax.tufts.edu, rank 10 out of 16 processors
+001001 on processor p1cmp071.pax.tufts.edu, rank 4 out of 16 processors
+000011 on processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+000101 on processor p1cmp071.pax.tufts.edu, rank 2 out of 16 processors
+010010 on processor p1cmp071.pax.tufts.edu, rank 9 out of 16 processors
+010111 on processor p1cmp071.pax.tufts.edu, rank 11 out of 16 processors
+001100 on processor p1cmp071.pax.tufts.edu, rank 6 out of 16 processors
+000110 on processor p1cmp071.pax.tufts.edu, rank 3 out of 16 processors
+000000 on processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+011011 on processor p1cmp071.pax.tufts.edu, rank 13 out of 16 processors
+011000 on processor p1cmp071.pax.tufts.edu, rank 12 out of 16 processors
+011110 on processor p1cmp071.pax.tufts.edu, rank 15 out of 16 processors
+010001 on processor p1cmp071.pax.tufts.edu, rank 8 out of 16 processors
+011101 on processor p1cmp071.pax.tufts.edu, rank 14 out of 16 processors
+001010 on processor p1cmp071.pax.tufts.edu, rank 5 out of 16 processors
+001111 on processor p1cmp071.pax.tufts.edu, rank 7 out of 16 processors
+0.0012199999999999989 pass 0 expec for 001001_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 4 out of 16 processors
+0.0012199999999999989 pass 1 expec for 001001_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 4 out of 16 processors
+0.0012199999999999989 pass 2 expec for 001001_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 4 out of 16 processors
+0.002319999999999961 pass 0 expec for 010001_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 8 out of 16 processors
+0.002319999999999961 pass 1 expec for 010001_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 8 out of 16 processors
+0.0009599999999999609 pass 0 expec for 000101_IIIZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 2 out of 16 processors
+0.001920000000000005 pass 0 expec for 000110_IIIZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 3 out of 16 processors
+0.0009599999999999609 pass 1 expec for 000101_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 2 out of 16 processors
+0.001920000000000005 pass 1 expec for 000110_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 3 out of 16 processors
+0.0009599999999999609 pass 2 expec for 000101_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 2 out of 16 processors
+0.001920000000000005 pass 2 expec for 000110_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 3 out of 16 processors
+-0.0007000000000000339 pass 0 expec for 001010_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 5 out of 16 processors
+0.0009599999999999609 pass 3 expec for 000101_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 2 out of 16 processors
+0.001920000000000005 pass 3 expec for 000110_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 3 out of 16 processors
+-0.0007000000000000339 pass 1 expec for 001010_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 5 out of 16 processors
+1.0 pass 0 expec for 000000_IIIIIZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+-0.0007000000000000339 pass 2 expec for 001010_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 5 out of 16 processors
+1.0 pass 1 expec for 000000_IIIIZZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+-0.00018000000000000654 pass 0 expec for 011011_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 13 out of 16 processors
+-0.0017999999999999683 pass 0 expec for 000011_IIIIZZ with probs from processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+1.0 pass 2 expec for 000000_IIIZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+0.006139999999999979 pass 0 expec for 011000_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 12 out of 16 processors
+-0.0001799999999999996 pass 1 expec for 011011_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 13 out of 16 processors
+1.0 pass 3 expec for 000000_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+-0.0017999999999999683 pass 1 expec for 000011_IIIZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+0.006139999999999979 pass 1 expec for 011000_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 12 out of 16 processors
+-0.0025400000000000006 pass 0 expec for 010111_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 11 out of 16 processors
+1.0 pass 4 expec for 000000_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+-0.0017999999999999683 pass 2 expec for 000011_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+-0.0025400000000000006 pass 1 expec for 010111_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 11 out of 16 processors
+-0.004920000000000008 pass 0 expec for 001111_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 7 out of 16 processors
+1.0 pass 5 expec for 000000_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 0 out of 16 processors
+-0.0017999999999999683 pass 3 expec for 000011_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+0.0034600000000000186 pass 0 expec for 010100_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 10 out of 16 processors
+0.0027800000000000324 pass 0 expec for 001100_IIZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 6 out of 16 processors
+-0.0017999999999999683 pass 4 expec for 000011_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 1 out of 16 processors
+0.0034600000000000186 pass 1 expec for 010100_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 10 out of 16 processors
+0.0027800000000000324 pass 1 expec for 001100_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 6 out of 16 processors
+-0.002319999999999968 pass 0 expec for 011101_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 14 out of 16 processors
+-0.0020400000000000418 pass 0 expec for 010010_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 9 out of 16 processors
+0.0027800000000000324 pass 2 expec for 001100_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 6 out of 16 processors
+-0.004920000000000008 pass 1 expec for 001111_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 7 out of 16 processors
+-0.002319999999999975 pass 1 expec for 011101_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 14 out of 16 processors
+-0.004920000000000008 pass 2 expec for 001111_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 7 out of 16 processors
+0.003360000000000002 pass 0 expec for 011110_IZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 15 out of 16 processors
+-0.0020400000000000418 pass 1 expec for 010010_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 9 out of 16 processors
+0.003360000000000002 pass 1 expec for 011110_ZZZZZZ with probs from processor p1cmp071.pax.tufts.edu, rank 15 out of 16 processors
