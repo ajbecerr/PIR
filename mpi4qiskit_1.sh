@@ -13,7 +13,6 @@ module load anaconda/2021.05
 # pip install qiskit
 # pip install qiskit_aer
 # pip install typing_extensions --upgrade
-python superbitty.py $1
 var=$((2**($1-2)))
 mkdir -p $1
-mpirun --oversubscribe -np $var python mpi4qiskit_1.py $1 $2
+mpirun --oversubscribe -np $var python mpi4qiskit_1.py $1 $2 $3
