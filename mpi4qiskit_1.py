@@ -107,9 +107,13 @@ else:
 vals = []
 for expec in expecs:
     vals.append(expectationVal(expec, probs))
-print(vals)
+# print(vals)
 
 plt.clf()
 plt.bar(expecs, vals)
 plt.title("processor {}, rank {:d} out of {:d} processors".format(procname, rank, size))
 plt.savefig(str(sys.argv[1])+'/'+fullenc+'_expecs_'+str(sys.argv[3])+'.pdf')
+
+weights = list(np.load('weights_'+str(sys.argv[1])+'.npy', allow_pickle=True)[0][fullenc].values())
+# print(np.dot(weights, vals), "on processor {}, rank {:d} out of {:d} processors".format(procname, rank, size))
+np.save(str(sys.argv[1])+'/weights_'+str(rank)+'_'+str(sys.argv[3])+'.npy', np.array([np.dot(weights, vals)]))

@@ -1,0 +1,65 @@
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+/cluster/home/abecer02/.local/lib/python3.8/site-packages/qiskit/visualization/counts_visualization.py:389: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  ax.set_ylim([min_ylim, min([1.1 * sum(all_vals), max(1.1 * val for val in all_vals)])])
+0.5193912499999999

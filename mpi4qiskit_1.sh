@@ -4,7 +4,7 @@
 #SBATCH -t 1:00:00
 #SBATCH -p patralab
 #SBATCH --mem-per-cpu=4g
-#SBATCH --mail-type=ALL
+#SBATCH --mail-type=FAIL
 #SBATCH --mail-user=alejandro.becerra@tufts.edu
 module load gcc/7.3.0 openmpi/4.0.4
 module load anaconda/2021.05
@@ -15,4 +15,6 @@ module load anaconda/2021.05
 # pip install typing_extensions --upgrade
 var=$((2**($1-2)))
 mkdir -p $1
+python Pauli.py $1
 mpirun --oversubscribe -np $var python mpi4qiskit_1.py $1 $2 $3
+python AggStore.py $1 $3
