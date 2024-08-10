@@ -3,7 +3,7 @@
 #SBATCH -J 2dSlab
 #SBATCH -t 1:00:00
 #SBATCH -p patralab
-#SBATCH --mem-per-cpu=4g
+#SBATCH --mem-per-cpu=8g
 #SBATCH --mail-type=FAIL
 #SBATCH --mail-user=alejandro.becerra@tufts.edu
 module load gcc/7.3.0 openmpi/4.0.4
