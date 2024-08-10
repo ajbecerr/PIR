@@ -27,20 +27,20 @@
 #     sbatch mpi4qiskit_1.sh 5 100000 31 $j
 # done
 
-for i in {0..7}
-do
-    for j in {0..63}
-    do
-        sbatch mpi4qiskit_1.sh 6 100000 $i $j
-    done
-done
-# for i in {8..15}
+# for i in {0..7}
 # do
 #     for j in {0..63}
 #     do
 #         sbatch mpi4qiskit_1.sh 6 100000 $i $j
 #     done
 # done
+for i in {8..15}
+do
+    for j in {0..63}
+    do
+        sbatch mpi4qiskit_1.sh 6 100000 $i $j
+    done
+done
 # for i in {16..23}
 # do
 #     for j in {0..63}
